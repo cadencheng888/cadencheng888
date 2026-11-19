@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Caden Cheng — software engineer, CS + mathematics at UC San Diego" src="assets/banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cadencheng888/cadencheng888/main/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cadencheng888/cadencheng888/main/assets/banner-light.png">
+  <img alt="Caden Cheng — software engineer, CS + mathematics at UC San Diego" src="https://raw.githubusercontent.com/cadencheng888/cadencheng888/main/assets/banner-light.png">
 </picture>
 
 <p align="center">
